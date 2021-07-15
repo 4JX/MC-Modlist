@@ -1,0 +1,14 @@
+{
+    "name": "Minecraft Client-Side Modlist",
+    "version": "0.0.1",
+    "overrides": [
+        "config"
+    ],
+    "projects": {
+        "forgified-fabric-api": {
+            "aliases": [
+                "fabric-api"
+            ]
+        }
+    }
+}
