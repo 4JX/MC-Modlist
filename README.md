@@ -25,7 +25,6 @@ The current performance baseline.
 | [ModernFix](https://modrinth.com/mod/modernfix) | Combines performance improvements, memory reductions, and bug fixes. | Covers the broad memory and bug-fix role that made [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) unnecessary. |
 | [More Culling](https://modrinth.com/mod/moreculling) | Adds additional rendering culling to improve performance. | Covers the leaf-culling use case; [Cull Leaves](https://modrinth.com/mod/cull-leaves) is not used separately. |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Makes crashes less disruptive and provides more useful recovery options. | |
-| [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Reloads resource packs in the background. | |
 
 ### Privacy
 
@@ -162,6 +161,7 @@ These projects are documented as optional and are not part of the current docume
 | [BetterF3](https://modrinth.com/mod/betterf3) | Replaces the built-in F3 debug screen with a configurable display. | [BoccHUD](https://modrinth.com/mod/bocchud) and the vanilla debug screen cover the current workflow. |
 | [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) | Adds dynamic camera movement and tilting. | |
 | [FlightAssistant](https://modrinth.com/mod/flightassistant) | Adds an elytra flight HUD, autopilot, and flight protections. | |
+| [Remove Reloading Screen](https://modrinth.com/mod/rrls) | Reloads resource packs in the background. | The Minecraft 1.21.1 version can crash while reading its config before NeoForge loads it; the [upstream fix](https://github.com/dima-dencep/rrls/issues/132) is only available in versions for newer Minecraft releases. |
 | [Spark](https://modrinth.com/mod/spark) | Provides an in-game performance profiler. | |
 
 ### Resource packs
