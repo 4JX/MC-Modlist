@@ -4198,44 +4198,6 @@
             ]
         },
         {
-            "pakku_id": "hD1OiGDfHdmGdcI9",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "sound-physics-aeronautics"
-            },
-            "name": {
-                "modrinth": "Sound Physics: Aeronautics"
-            },
-            "id": {
-                "modrinth": "JHKPj7kB"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "sound-physics-aeronautics-0.2.0-alpha.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/JHKPj7kB/versions/R3qhVH9r/sound-physics-aeronautics-0.2.0-alpha.1.jar",
-                    "id": "R3qhVH9r",
-                    "parent_id": "JHKPj7kB",
-                    "hashes": {
-                        "sha512": "c79caeb2a8a278a3b49e20f997f25d4c9d6891d842b67dc6740fdd7a4bd2b58efb66dc3e8c7584b60d3a0ead52a888da556d24854a7aef5955767227734d3795",
-                        "sha1": "5bf534047e51fc8435e7076a1f5dec10ddb7642e"
-                    },
-                    "required_dependencies": [],
-                    "size": 1065833,
-                    "date_published": "2026-07-16T15:07:31.368162Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "vUnHso0ntclvF3tW",
             "pakku_links": [
                 "3ooZc11dJgmBj2kb",
